@@ -1,0 +1,72 @@
+body{
+    font-family: 'Dancing Script',cursive;
+    background: linear-gradient(#00ffff 0%, #f086fa 100%);
+}
+.header_div{
+    background-color: #83e8fa;
+    color:hotpink;
+    }
+
+    .header_div img{
+        width: 100px;
+    }
+
+h2{
+    font-size: 50px;
+}
+
+.main_div{
+    background:magenta;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label{
+    background:floralwhite;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px whitesmoke ;
+    font-size: 35px;
+}
+
+#camera, #result{
+    border: 2px solid whitesmoke;
+    width: 300px;
+    height: 400px;
+    box-shadow: 5px 5px 18px whitesmoke ;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px whitesmoke ;
+    border: 1px solid;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background: whitesmoke;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px whitesmoke ;
+}
+
+.footer_div img{
+    width: 70px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:magenta;
+    bottom: 0;
+    width: 100%;
+    background-color: cyan;
+    line-height: 2;
+    text-align: center;
+    font-size: 30px;
+}
